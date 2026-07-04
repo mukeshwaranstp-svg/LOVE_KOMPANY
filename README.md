@@ -133,7 +133,7 @@ Developers who can collaborate effectively with AI while understanding the under
 If you're reading this, thank you for checking out my project.
 
 ⭐ If you enjoyed it, consider giving the repository a star!
-  # Design FLAMES Reimagined App
+  # Design LOVE Kompany
 
   This is a code bundle for Design FLAMES Reimagined App. The original project is available at https://www.figma.com/design/HirT52m34gVouyIqmrjrMX/Design-FLAMES-Reimagined-App.
 
